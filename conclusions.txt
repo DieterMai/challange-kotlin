@@ -1,7 +1,7 @@
 
 
 - The Easiest way to create a new regex is "Regex(<Regex as string>)"
-
+- To count elements that match a property in an array do x.count { it == "good" }
 
 
 

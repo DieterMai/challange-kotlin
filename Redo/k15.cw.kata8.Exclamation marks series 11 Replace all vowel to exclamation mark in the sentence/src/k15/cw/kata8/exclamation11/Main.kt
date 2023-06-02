@@ -1,4 +1,4 @@
-// https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed/train/kotlin
+package k15.cw.kata8.exclamation11// https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed/train/kotlin
 // Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence
 
 fun replace(s: String): String {

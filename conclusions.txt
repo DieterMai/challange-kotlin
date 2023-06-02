@@ -1,0 +1,7 @@
+
+
+- The Easiest way to create a new regex is "Regex(<Regex as string>)"
+
+
+
+

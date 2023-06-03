@@ -3,6 +3,7 @@
 - The Easiest way to create a new regex is "Regex(<Regex as string>)"
 - To count elements that match a property in an array do x.count { it == "good" }
 - To get the min element of a list you can do list.minOf{it} or list.min()
+- you can use "is <type>" in a when statement
 
 
 

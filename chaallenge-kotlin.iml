@@ -17,6 +17,8 @@
       <sourceFolder url="file://$MODULE_DIR$/__k15.cw.kata8.Template/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Redo/k15.cw.kata8.Find_the_smallest_integer_in_the_array/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Redo/k15.cw.kata8.Find_the_smallest_integer_in_the_array/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Redo/k15.cw.kata8.SumMixedArray/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Redo/k15.cw.kata8.SumMixedArray/test" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

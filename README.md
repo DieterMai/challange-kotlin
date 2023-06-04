@@ -14,7 +14,7 @@
 | [Link](https://www.codewars.com/kata/5ab6538b379d20ad880000ab) | 8     | Done  | Area or Perimeter                                                                   |
 | [Link](https://www.codewars.com/kata/583710ccaa6717322c000105) | 8     | Done  | Simple multiplication                                                               |
 | [Link](https://www.codewars.com/kata/545991b4cbae2a5fda000158) | 8     | Redo  | Enumerable Magic - Does My List Include This?                                       |
-| [Link](https://www.codewars.com/kata/57f781872e3d8ca2a000007e) | 8     | TODO  | Beginner - Lost Without a Map                                                       |
+| [Link](https://www.codewars.com/kata/57f781872e3d8ca2a000007e) | 8     | Done  | Beginner - Lost Without a Map                                                       |
 | [Link](https://www.codewars.com/kata/57e92e91b63b6cbac20001e5) | 8     | TODO  | Holiday VIII - Duty Free                                                            |
 | [Link](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7) | 8     | TODO  | MakeUpperCase                                                                       |
 | [Link](https://www.codewars.com/kata/576bb71bbbcf0951d5000044) | 8     | TODO  | Count of positives / sum of negatives                                               |

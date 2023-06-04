@@ -19,6 +19,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Redo/k15.cw.kata8.Find_the_smallest_integer_in_the_array/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Redo/k15.cw.kata8.SumMixedArray/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Redo/k15.cw.kata8.SumMixedArray/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Area_or_Perimeter/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Area_or_Perimeter/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Convert_a_Number_to_a_String/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Convert_a_Number_to_a_String/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Grasshopper_Terminal_game_move_function/src" isTestSource="false" />

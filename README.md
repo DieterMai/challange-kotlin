@@ -8,7 +8,7 @@
 | [Link](https://www.codewars.com/kata/57f222ce69e09c3630000212) | 8     | Redo  | Well of Ideas - Easy Version                                                        |
 | [Link](https://www.codewars.com/kata/55a2d7ebe362935a210000b2) | 8     | Redo  | Find the smallest integer in the array                                              |
 | [Link](https://www.codewars.com/kata/57eaeb9578748ff92a000009) | 8     | Redo  | Sum Mixed Array                                                                     |
-| [Link](https://www.codewars.com/kata/5265326f5fda8eb1160004c8) | 8     | TODO  | Convert a Number to a String!                                                       |
+| [Link](https://www.codewars.com/kata/5265326f5fda8eb1160004c8) | 8     | Done  | Convert a Number to a String!                                                       |
 | [Link](https://www.codewars.com/kata/588417e576933b0ec9000045) | 8     | TODO  | Simple Fun #1: Seats in Theater                                                     |
 | [Link](https://www.codewars.com/kata/563a631f7cbbc236cf0000c2) | 8     | TODO  | Grasshopper - Terminal game move function                                           |
 | [Link](https://www.codewars.com/kata/5ab6538b379d20ad880000ab) | 8     | TODO  | Area or Perimeter                                                                   |

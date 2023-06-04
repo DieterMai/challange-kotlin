@@ -12,7 +12,7 @@
 | [Link](https://www.codewars.com/kata/588417e576933b0ec9000045) | 8     | Done  | Simple Fun #1: Seats in Theater                                                     |
 | [Link](https://www.codewars.com/kata/563a631f7cbbc236cf0000c2) | 8     | Done  | Grasshopper - Terminal game move function                                           |
 | [Link](https://www.codewars.com/kata/5ab6538b379d20ad880000ab) | 8     | Done  | Area or Perimeter                                                                   |
-| [Link](https://www.codewars.com/kata/583710ccaa6717322c000105) | 8     | TODO  | Simple multiplication                                                               |
+| [Link](https://www.codewars.com/kata/583710ccaa6717322c000105) | 8     | Done  | Simple multiplication                                                               |
 | [Link](https://www.codewars.com/kata/545991b4cbae2a5fda000158) | 8     | TODO  | Enumerable Magic - Does My List Include This?                                       |
 | [Link](https://www.codewars.com/kata/57f781872e3d8ca2a000007e) | 8     | TODO  | Beginner - Lost Without a Map                                                       |
 | [Link](https://www.codewars.com/kata/57e92e91b63b6cbac20001e5) | 8     | TODO  | Holiday VIII - Duty Free                                                            |

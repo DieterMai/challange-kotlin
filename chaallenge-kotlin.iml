@@ -37,6 +37,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Redo/k15.cw.kata8.Enumerable_Magic/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.MakeUpperCase/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.MakeUpperCase/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Redo/k15.cw.kata8.Count_of_positives/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Redo/k15.cw.kata8.Count_of_positives/test" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

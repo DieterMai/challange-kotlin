@@ -17,7 +17,7 @@
 | [Link](https://www.codewars.com/kata/57f781872e3d8ca2a000007e) | 8     | Done  | Beginner - Lost Without a Map                                                       |
 | [Link](https://www.codewars.com/kata/57e92e91b63b6cbac20001e5) | 8     | Done  | Holiday VIII - Duty Free                                                            |
 | [Link](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7) | 8     | Done  | MakeUpperCase                                                                       |
-| [Link](https://www.codewars.com/kata/576bb71bbbcf0951d5000044) | 8     | TODO  | Count of positives / sum of negatives                                               |
+| [Link](https://www.codewars.com/kata/576bb71bbbcf0951d5000044) | 8     | Redo  | Count of positives / sum of negatives                                               |
 | [Link](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1) | 8     | TODO  | Parse nice int from char problem                                                    |
 | [Link](https://www.codewars.com/kata/544675c6f971f7399a000e79) | 8     | TODO  | Convert a String to a Number!                                                       |
 | [Link](https://www.codewars.com/kata/56c5847f27be2c3db20009c3) | 8     | TODO  | Subtract the Sum                                                                    |

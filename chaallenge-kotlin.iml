@@ -43,6 +43,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.parseniceintfromcharproblem/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Redo/k15.cw.kata8.Count_of_positives/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Redo/k15.cw.kata8.Count_of_positives/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Subtract_the_Sum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Subtract_the_Sum/test" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

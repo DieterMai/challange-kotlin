@@ -21,7 +21,7 @@
 | [Link](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1) | 8     | Done  | Parse nice int from char problem                                                    |
 | [Link](https://www.codewars.com/kata/544675c6f971f7399a000e79) | 8     | Done  | Convert a String to a Number!                                                       |
 | [Link](https://www.codewars.com/kata/56c5847f27be2c3db20009c3) | 8     | Done  | Subtract the Sum                                                                    |
-| [Link](https://www.codewars.com/kata/551b4501ac0447318f0009cd) | 8     | TODO  | Convert a Boolean to a String                                                       |
+| [Link](https://www.codewars.com/kata/551b4501ac0447318f0009cd) | 8     | Done  | Convert a Boolean to a String                                                       |
 | [Link](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe) | 8     | TODO  | Even or Odd                                                                         |
 | [Link](https://www.codewars.com/kata/515e271a311df0350d00000f) | 8     | TODO  | Square(n) Sum                                                                       |
 | [Link](https://www.codewars.com/kata/57eae20f5500ad98e50002c5) | 8     | TODO  | Remove String Spaces                                                                |

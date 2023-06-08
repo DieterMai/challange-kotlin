@@ -45,6 +45,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Subtract_the_Sum/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.ConvertABooleanToAString/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.ConvertABooleanToAString/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.EvenOdd/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.EvenOdd/test" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

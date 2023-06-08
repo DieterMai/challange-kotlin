@@ -53,6 +53,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.RemoveStringSpaces/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.SquareNSum/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.SquareNSum/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.TehFasterOfManyBeasts/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.TehFasterOfManyBeasts/test" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

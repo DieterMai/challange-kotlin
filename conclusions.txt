@@ -6,6 +6,7 @@
 - you can use "is <type>" in a when statement
 - To check if an item is in an array you can do "item in array"
 - You can partition arrays eg: int array inot positive and negative: input.partition { it > 0 }
+- To get the last index of an array, use arrayName.lastIndex
 
 
 

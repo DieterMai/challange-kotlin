@@ -3,22 +3,22 @@
 ## Kata 8
 | #   | Link                                                           | State | Title                                                                               |
 |-----|----------------------------------------------------------------|-------|-------------------------------------------------------------------------------------|
-| 1   | [Link](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed) | Redo  | Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence |
+| 1   | [Link](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed) | Done  | Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence |
 | 2   | [Link](https://www.codewars.com/kata/5c374b346a5d0f77af500a5a) | Done  | Closest elevator                                                                    |
 | 3   | [Link](https://www.codewars.com/kata/55acfc59c3c23d230f00006d) | Done  | get ascii value of character                                                        |
-| 4   | [Link](https://www.codewars.com/kata/57f222ce69e09c3630000212) | Redo  | Well of Ideas - Easy Version                                                        |
-| 5   | [Link](https://www.codewars.com/kata/55a2d7ebe362935a210000b2) | Redo  | Find the smallest integer in the array                                              |
-| 6   | [Link](https://www.codewars.com/kata/57eaeb9578748ff92a000009) | Redo  | Sum Mixed Array                                                                     |
+| 4   | [Link](https://www.codewars.com/kata/57f222ce69e09c3630000212) | Done  | Well of Ideas - Easy Version                                                        |
+| 5   | [Link](https://www.codewars.com/kata/55a2d7ebe362935a210000b2) | Done  | Find the smallest integer in the array                                              |
+| 6   | [Link](https://www.codewars.com/kata/57eaeb9578748ff92a000009) | Done  | Sum Mixed Array                                                                     |
 | 7   | [Link](https://www.codewars.com/kata/5265326f5fda8eb1160004c8) | Done  | Convert a Number to a String!                                                       |
 | 8   | [Link](https://www.codewars.com/kata/588417e576933b0ec9000045) | Done  | Simple Fun #1: Seats in Theater                                                     |
 | 9   | [Link](https://www.codewars.com/kata/563a631f7cbbc236cf0000c2) | Done  | Grasshopper - Terminal game move function                                           |
 | 10  | [Link](https://www.codewars.com/kata/5ab6538b379d20ad880000ab) | Done  | Area or Perimeter                                                                   |
 | 11  | [Link](https://www.codewars.com/kata/583710ccaa6717322c000105) | Done  | Simple multiplication                                                               |
-| 12  | [Link](https://www.codewars.com/kata/545991b4cbae2a5fda000158) | Redo  | Enumerable Magic - Does My List Include This?                                       |
+| 12  | [Link](https://www.codewars.com/kata/545991b4cbae2a5fda000158) | Done  | Enumerable Magic - Does My List Include This?                                       |
 | 13  | [Link](https://www.codewars.com/kata/57f781872e3d8ca2a000007e) | Done  | Beginner - Lost Without a Map                                                       |
 | 14  | [Link](https://www.codewars.com/kata/57e92e91b63b6cbac20001e5) | Done  | Holiday VIII - Duty Free                                                            |
 | 15  | [Link](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7) | Done  | MakeUpperCase                                                                       |
-| 16  | [Link](https://www.codewars.com/kata/576bb71bbbcf0951d5000044) | Redo  | Count of positives / sum of negatives                                               |
+| 16  | [Link](https://www.codewars.com/kata/576bb71bbbcf0951d5000044) | Done  | Count of positives / sum of negatives                                               |
 | 17  | [Link](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1) | Done  | Parse nice int from char problem                                                    |
 | 18  | [Link](https://www.codewars.com/kata/544675c6f971f7399a000e79) | Done  | Convert a String to a Number!                                                       |
 | 19  | [Link](https://www.codewars.com/kata/56c5847f27be2c3db20009c3) | Done  | Subtract the Sum                                                                    |
@@ -28,7 +28,7 @@
 | 23  | [Link](https://www.codewars.com/kata/57eae20f5500ad98e50002c5) | Done  | Remove String Spaces                                                                |
 | 24  | [Link](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b) | Done  | Cat years, Dog years                                                                |
 | 25  | [Link](https://www.codewars.com/kata/5aa736a455f906981800360d) | Done  | The Feast of Many Beasts                                                            |
-| 26  | [Link](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) | TODO  | Remove First and Last Character                                                     |
+| 26  | [Link](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) | Done  | Remove First and Last Character                                                     |
 | 27  | [Link](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) | TODO  | Invert values                                                                       |
 | 28  | [Link](https://www.codewars.com/kata/53ee5429ba190077850011d4) | TODO  | You Can't Code Under Pressure #1                                                    |
 | 29  | [Link](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) | TODO  | Grasshopper - Summation                                                             |

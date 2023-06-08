@@ -11,12 +11,6 @@
       <sourceFolder url="file://$MODULE_DIR$/Done/__k15.cw.kata8.Closest elevator/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.get ascii value of character/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.get ascii value of character/test" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/Redo/k15.cw.kata8.Well of Ideas/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Redo/k15.cw.kata8.Well of Ideas/test" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/Redo/k15.cw.kata8.Find_the_smallest_integer_in_the_array/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Redo/k15.cw.kata8.Find_the_smallest_integer_in_the_array/test" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/Redo/k15.cw.kata8.SumMixedArray/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Redo/k15.cw.kata8.SumMixedArray/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/__k15.cw.kata8.beginner_Lost_Without_a_Map/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Done/__k15.cw.kata8.beginner_Lost_Without_a_Map/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Area_or_Perimeter/src" isTestSource="false" />
@@ -31,30 +25,38 @@
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Simple multiplication/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Simple_Fun_1_Seats_in_Theater/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Simple_Fun_1_Seats_in_Theater/test" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/Redo/k15.cw.kata8.Enumerable_Magic/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Redo/k15.cw.kata8.Enumerable_Magic/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.MakeUpperCase/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.MakeUpperCase/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.convertastringtoanumber/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.convertastringtoanumber/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.parseniceintfromcharproblem/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.parseniceintfromcharproblem/test" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/Redo/k15.cw.kata8.Count_of_positives/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Redo/k15.cw.kata8.Count_of_positives/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Subtract_the_Sum/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Subtract_the_Sum/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.ConvertABooleanToAString/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.ConvertABooleanToAString/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.CatDogYears/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.CatDogYears/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Count_of_positives/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Count_of_positives/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Enumerable_Magic/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Enumerable_Magic/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.EvenOdd/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.EvenOdd/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Find_the_smallest_integer_in_the_array/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Find_the_smallest_integer_in_the_array/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.RemoveFirstAndLastCharacter/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.RemoveFirstAndLastCharacter/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.RemoveStringSpaces/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.RemoveStringSpaces/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.SquareNSum/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.SquareNSum/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.SumMixedArray/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.SumMixedArray/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.TehFasterOfManyBeasts/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.TehFasterOfManyBeasts/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Well of Ideas/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Well of Ideas/test" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

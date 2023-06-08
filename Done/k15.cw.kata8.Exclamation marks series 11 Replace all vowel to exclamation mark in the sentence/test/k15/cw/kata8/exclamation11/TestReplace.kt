@@ -1,6 +1,5 @@
 package k15.cw.kata8.exclamation11
 
-import k15.cw.kata8.exclamation11.replace
 import kotlin.test.assertEquals
 import org.junit.Test
 

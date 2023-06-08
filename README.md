@@ -25,7 +25,7 @@
 | [Link](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe) | 8     | Done  | Even or Odd                                                                         |
 | [Link](https://www.codewars.com/kata/515e271a311df0350d00000f) | 8     | Done  | Square(n) Sum                                                                       |
 | [Link](https://www.codewars.com/kata/57eae20f5500ad98e50002c5) | 8     | Done  | Remove String Spaces                                                                |
-| [Link](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b) | 8     | TODO  | Cat years, Dog years                                                                |
+| [Link](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b) | 8     | Done  | Cat years, Dog years                                                                |
 | [Link](https://www.codewars.com/kata/5aa736a455f906981800360d) | 8     | TODO  | The Feast of Many Beasts                                                            |
 | [Link](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) | 8     | TODO  | Remove First and Last Character                                                     |
 | [Link](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) | 8     | TODO  | Invert values                                                                       |

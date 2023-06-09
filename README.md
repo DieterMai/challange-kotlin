@@ -31,7 +31,7 @@
 | 26  | [Link](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) | Done  | Remove First and Last Character                                                     |
 | 27  | [Link](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) | Done  | Invert values                                                                       |
 | 28  | [Link](https://www.codewars.com/kata/53ee5429ba190077850011d4) | Done  | You Can't Code Under Pressure #1                                                    |
-| 29  | [Link](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) | TODO  | Grasshopper - Summation                                                             |
+| 29  | [Link](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) | Done  | Grasshopper - Summation                                                             |
 | 30  | [Link](https://www.codewars.com/kata/57f780909f7e8e3183000078) | TODO  | Beginner - Reduce but Grow                                                          |
 | 31  | [Link](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a) | TODO  | Beginner Series #2 Clock                                                            |
 | 32  | [Link](https://www.codewars.com/kata/51c8991dee245d7ddf00000e) | TODO  | Reversed Words                                                                      |

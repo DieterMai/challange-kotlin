@@ -1,6 +1,5 @@
 package k15.cw.kata8.multiply
 
-import k15.cw.kata8.multiply.multiply
 import org.junit.Test
 
 import org.junit.Assert.assertEquals

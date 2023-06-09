@@ -35,8 +35,8 @@
 | 30  | [Link](https://www.codewars.com/kata/57f780909f7e8e3183000078) | Done  | Beginner - Reduce but Grow                                                          |
 | 31  | [Link](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a) | Done  | Beginner Series #2 Clock                                                            |
 | 32  | [Link](https://www.codewars.com/kata/51c8991dee245d7ddf00000e) | Done  | Reversed Words                                                                      |
-| 33  | [Link](https://www.codewars.com/kata/50654ddff44f800200000004) | TODO  | Multiply                                                                            |
-| 34  | [Link](https://www.codewars.com/kata/5545f109004975ea66000086) | TODO  | Is n divisible by x and y?                                                          |
+| 33  | [Link](https://www.codewars.com/kata/50654ddff44f800200000004) | Done  | Multiply                                                                            |
+| 34  | [Link](https://www.codewars.com/kata/5545f109004975ea66000086) | Done  | Is n divisible by x and y?                                                          |
 | 35  | [Link](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097) | TODO  | Century From Year                                                                   |
 | 36  | [Link](https://www.codewars.com/kata/523b4ff7adca849afe000035) | TODO  | Function 1 - hello world                                                            |
 | 37  | [Link](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | TODO  | String repeat                                                                       |

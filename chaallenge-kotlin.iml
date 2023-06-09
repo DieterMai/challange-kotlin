@@ -65,6 +65,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Beginner Series #2 Clock/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.GrasshopperSummation/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.GrasshopperSummation/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Reversed Words/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Reversed Words/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.YouCantCodeUnderPressur1/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.YouCantCodeUnderPressur1/test" isTestSource="true" />
     </content>

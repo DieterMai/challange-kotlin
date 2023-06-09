@@ -45,6 +45,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.EvenOdd/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Find_the_smallest_integer_in_the_array/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Find_the_smallest_integer_in_the_array/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.InvertValues/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.InvertValues/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.RemoveFirstAndLastCharacter/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.RemoveFirstAndLastCharacter/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.RemoveStringSpaces/src" isTestSource="false" />
@@ -57,6 +59,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.TehFasterOfManyBeasts/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Well of Ideas/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Well of Ideas/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.YouCantCodeUnderPressur1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.YouCantCodeUnderPressur1/test" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -69,6 +69,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Reversed Words/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.YouCantCodeUnderPressur1/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.YouCantCodeUnderPressur1/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/InProgress/k15.cw.kata8.Multiply/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/InProgress/k15.cw.kata8.Multiply/test" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

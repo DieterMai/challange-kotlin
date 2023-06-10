@@ -77,6 +77,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Reversed Words/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.YouCantCodeUnderPressur1/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.YouCantCodeUnderPressur1/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Abbreviate a Two Word Name/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Abbreviate a Two Word Name/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.CountOddNumbersBelowN/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.CountOddNumbersBelowN/test" isTestSource="true" />
     </content>

@@ -42,7 +42,7 @@
 | 37  | [Link](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | Done  | String repeat                                                                       |
 | 38  | [Link](https://www.codewars.com/kata/59342039eb450e39970000a6) | Done  | Count Odd Numbers below n                                                           |
 | 39  | [Link](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) | Done  | Abbreviate a Two Word Name                                                          |
-| 40  | [Link](https://www.codewars.com/kata/555086d53eac039a2a000083) | TODO  | Opposites Attract                                                                   |
+| 40  | [Link](https://www.codewars.com/kata/555086d53eac039a2a000083) | Done  | Opposites Attract                                                                   |
 | 41  | [Link](https://www.codewars.com/kata/5715eaedb436cf5606000381) | TODO  | Sum of positive                                                                     |
 | 42  | [Link](https://www.codewars.com/kata/5583090cbe83f4fd8c000051) | TODO  | Convert number to reversed array of digits                                          |
 | 43  | [Link](https://www.codewars.com/kata/56dec885c54a926dcd001095) | TODO  | Opposite number                                                                     |

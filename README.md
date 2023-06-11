@@ -45,8 +45,8 @@
 | 40  | [Link](https://www.codewars.com/kata/555086d53eac039a2a000083) | Done  | Opposites Attract                                                                   |
 | 41  | [Link](https://www.codewars.com/kata/5715eaedb436cf5606000381) | Done  | Sum of positive                                                                     |
 | 42  | [Link](https://www.codewars.com/kata/5583090cbe83f4fd8c000051) | Done  | Convert number to reversed array of digits                                          |
-| 43  | [Link](https://www.codewars.com/kata/56dec885c54a926dcd001095) | TODO  | Opposite number                                                                     |
-| 44  | [Link](https://www.codewars.com/kata/55cbc3586671f6aa070000fb) | TODO  | Grasshopper - Check for factor                                                      |
+| 43  | [Link](https://www.codewars.com/kata/56dec885c54a926dcd001095) | Done  | Opposite number                                                                     |
+| 44  | [Link](https://www.codewars.com/kata/55cbc3586671f6aa070000fb) | Done  | Grasshopper - Check for factor                                                      |
 | 45  | [Link](https://www.codewars.com/kata/55a70521798b14d4750000a4) | TODO  | Returning Strings                                                                   |
 | 46  | [Link](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e) | TODO  | Expressions Matter                                                                  |
 | 47  | [Link](https://www.codewars.com/kata/5b853229cfde412a470000d0) | TODO  | Twice as old                                                                        |

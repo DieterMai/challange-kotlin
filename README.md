@@ -51,4 +51,4 @@
 | 46  | [Link](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e) | Done  | Expressions Matter                                                                  |
 | 47  | [Link](https://www.codewars.com/kata/5b853229cfde412a470000d0) | Done  | Twice as old                                                                        |
 | 48  | [Link](https://www.codewars.com/kata/55685cd7ad70877c23000102) | Done  | Return Negative                                                                     |
-| 49  | [Link](https://www.codewars.com/kata/59ca8246d751df55cc00014c) | TODO  | Is he gonna survive?                                                                |
+| 49  | [Link](https://www.codewars.com/kata/59ca8246d751df55cc00014c) | Done  | Is he gonna survive?                                                                |

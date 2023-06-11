@@ -48,7 +48,7 @@
 | 43  | [Link](https://www.codewars.com/kata/56dec885c54a926dcd001095) | Done  | Opposite number                                                                     |
 | 44  | [Link](https://www.codewars.com/kata/55cbc3586671f6aa070000fb) | Done  | Grasshopper - Check for factor                                                      |
 | 45  | [Link](https://www.codewars.com/kata/55a70521798b14d4750000a4) | Done  | Returning Strings                                                                   |
-| 46  | [Link](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e) | TODO  | Expressions Matter                                                                  |
-| 47  | [Link](https://www.codewars.com/kata/5b853229cfde412a470000d0) | TODO  | Twice as old                                                                        |
+| 46  | [Link](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e) | Done  | Expressions Matter                                                                  |
+| 47  | [Link](https://www.codewars.com/kata/5b853229cfde412a470000d0) | Done  | Twice as old                                                                        |
 | 48  | [Link](https://www.codewars.com/kata/55685cd7ad70877c23000102) | TODO  | Return Negative                                                                     |
 | 49  | [Link](https://www.codewars.com/kata/59ca8246d751df55cc00014c) | TODO  | Is he gonna survive?                                                                |

@@ -89,10 +89,12 @@
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Sum of positive/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8. Returning Strings/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8. Returning Strings/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Expressions Matter/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Expressions Matter/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Grasshopper - Check for factor/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Grasshopper - Check for factor/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Opposite number/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Done/k15.cw.kata8.Opposite number/test" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/__k15.cw.kata8.Template/k15.cw.kata8.Grasshopper - Check for factor/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/__k15.cw.kata8.Template/k15.cw.kata8.Grasshopper - Check for factor/test" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
